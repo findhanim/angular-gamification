@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+
+.pixel-font {
+  font-family: "Press Start 2P", cursive;
+}
+
+.icon {
+  width: 150px;
+  height: 150px;
+  background: #9a7ab5;
+  border: 5px solid #8368a1;
+}
+
+button {
+  border: none !important;
+}
+
+.btn-shop {
+  font-size: 10px;
+  background: #793680;
+  padding: 10px 20px;
+  box-shadow: 3px 3px 0 #000000;
+}
