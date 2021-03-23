@@ -24,11 +24,14 @@
 
 button {
   border: none !important;
-}
-
-.btn-shop {
   font-size: 10px;
   background: #793680;
   padding: 10px 30px;
   box-shadow: 3px 3px 0 #000000;
+}
+
+button:active {
+  box-shadow: none;
+  margin-top: 3px;
+  margin-left: 3px;
 }
